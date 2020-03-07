@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Donuts</string>
+    <string name="action_settings">Settings</string>
+    <string name="donut">donut is sweet food, eat too much will cause obesity.</string>
+    <string name="ice_cream">ice_cream is sweet food, eat too much will cause obesity.</string>
+    <string name="froyo">froyo is sweet food, eat too much will cause obesity.</string>
+    <string name="donut_description">donut is sweet food, eat too much will cause obesity.</string>
+    <string name="ice_cream_description">ice_cream is sweet food, eat too much will cause obesity.</string>
+    <string name="froyo_description">froyo is sweet food, eat too much will cause obesity.</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice_cream.</string>
+    <string name="froyo_order_message">You ordered a froyo.</string>
+    <string name="choose_a_delivery_method">Choose a delivery method:</string>
+    <string name="same_day_messenger_service">Same day messenger service</string>
+    <string name="next_day_messenger_service">Next day messenger service</string>
+    <string name="pick_up">Pick up</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
