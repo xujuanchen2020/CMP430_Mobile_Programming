@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="team_1">Team 1</string>
+    <string name="minus_button_description">minus_button_description</string>
+    <string name="initial_count">0</string>
+    <string name="plus_button_description">plus_button_description</string>
+    <string name="team_2">Team 2</string>
+</resources>
