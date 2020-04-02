@@ -5,7 +5,7 @@
     <string name="place_holder">place holder Where cases have been confirmed in the U.S. and worldwide.
         Download the NBC News app for latest updates on the coronavirus outbreak.</string>
 
-    <string-array name="sports_titles">
+    <array name="sports_titles">
         <item>Badminton</item>
         <item>Baseball</item>
         <item>Basketball</item>
@@ -17,9 +17,9 @@
         <item>Swimming</item>
         <item>Table Tennis</item>
         <item>Tennis</item>
-    </string-array>
+    </array>
 
-    <string-array name="sports_info">
+    <array name="sports_info">
         <item>Here is some Badminton news</item>
         <item>Here is some Baseball news</item>
         <item>Here is some Basketball news</item>
@@ -31,9 +31,9 @@
         <item>Here is some Swimming news</item>
         <item>Here is some Table Tennis news</item>
         <item>Here is some Tennis news</item>
-    </string-array>
+    </array>
 
-    <string-array name="sports_images">
+    <array name="sports_images">
         <item>@drawable/img_badminton</item>
         <item>@drawable/img_baseball</item>
         <item>@drawable/img_basketball</item>
@@ -46,6 +46,6 @@
         <item>@drawable/img_tabletennis</item>
         <item>@drawable/img_tennis</item>
 
-    </string-array>
+    </array>
 
 </resources>
